@@ -66,5 +66,8 @@ void main() {
   print('Luas lingkaran adalah ${lingkaran.luas()} cm ');
   print('Keliling lingkaran adalah ${lingkaran.keliling()} cm');
   print('===================================');
+  print('Kelompok : Anak Kebanyakan Alpa');
+  print('Muhammad Fadjar Alfarizi');
+  print('Rayn Anthares');
   print('Jeiver Junior Lahilote');
 }
