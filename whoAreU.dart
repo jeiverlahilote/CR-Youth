@@ -13,9 +13,9 @@ void main() {
   print('Masukkan Jurusan:');
   String jurusan = stdin.readLineSync()!;
 
-  print('==============');
+  print('================');
   print('Biodata CR Youth');
-  print('==============');
+  print('================');
   print('Nama : $nama');
   print('Umur : $umur');
   print('Kampus: $kampus');
